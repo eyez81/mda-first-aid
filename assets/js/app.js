@@ -979,7 +979,183 @@ const richLessons = {
     </section>
 
     <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>רעיון אחד, תנועה עולמית ושבעה עקרונות</h3></div><p>היחידה עוקבת מהחוויה של דונאנט בסולפרינו, דרך הקמת המוסדות והאמנות, ועד שבעת עקרונות התנועה, הסמלים המוגנים ומקומו של מד״א בתוך התנועה הבינלאומית.</p></section>
+  `,
+  "2.1": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 2.1 בלבד</strong><p>כל ההגדרות, הדוגמאות והמונחים נשמרו לפי חומר המקור. לא נוספו הסברים רפואיים שאינם מופיעים במצגת.</p></div></div>
+    <nav class="lesson-jump-nav" aria-label="ניווט בתוך היחידה"><a href="#a21-terms">מושגי יסוד</a><a href="#a21-life">מאפייני חיים</a><a href="#a21-homeo">הומאוסטזיס</a><a href="#a21-levels">רמות ארגון</a><a href="#a21-processes">תהליכים</a></nav>
+
+    <section class="learning-section" id="a21-terms"><div class="section-kicker">01 · ארבעה מושגים</div><h3>איך לומדים את גוף האדם?</h3>
+      <div class="definition-grid four">
+        <article><strong>אנטומיה</strong><p>תורה החוקרת את מבנה הגוף והאיבר.</p></article>
+        <article><strong>פיזיולוגיה</strong><p>תורה החוקרת את התהליכים הכימיים המתרחשים בגוף.</p></article>
+        <article><strong>פתולוגיה</strong><p>תורה החוקרת את דרכי פעולתן של המחלות.</p></article>
+        <article><strong>פתופיזיולוגיה</strong><p>ענף משנה של הפתולוגיה, החוקר את השתלשלות האירועים המביאה להופעת סימני המחלה ואת הדרכים שבהן גורמי מחלה משפיעים על תפקוד הגוף.</p></article>
+      </div>
+      <div class="level-ribbon compact"><span>אטום</span><i>←</i><span>מולקולה</span><i>←</i><span>תא</span></div>
+    </section>
+
+    <section class="learning-section" id="a21-life"><div class="section-kicker">02 · התא החי</div><h3>מאפיינים ותהליכים שמופיעים במצגת</h3>
+      <div class="process-chip-grid"><span>נשימה תאית</span><span>הזנה והפרשה</span><span>רבייה</span><span>תגובה לצורך הישרדות</span><span>הומאוסטזיס</span><span>מוות</span></div>
+      <div class="input-output-card"><div class="io-side"><strong>קלט</strong><span>מידע</span><span>חום</span><span>קור</span></div><div class="io-core">יצור חי</div><div class="io-side"><strong>פלט</strong><span>תגובה</span></div></div>
+    </section>
+
+    <section class="learning-section" id="a21-homeo"><div class="section-kicker">03 · יציבות פנימית</div><h3>הומאוסטזיס</h3>
+      <div class="focus-card"><p class="big-copy">הומאוסטזיס מבטא את כושרו של יצור חי לשמור על <strong>סביבה פנימית יציבה בגבולות מוגדרים</strong>, השונה מהסביבה החיצונית.</p></div>
+      <div class="example-grid three"><article><strong>רמת סוכר בדם</strong></article><article><strong>יצירת תאי דם אדומים</strong></article><article><strong>טמפרטורת הגוף</strong></article></div>
+    </section>
+
+    <section class="learning-section" id="a21-levels"><div class="section-kicker">04 · בניית הגוף</div><h3>מתא ועד גוף</h3>
+      <div class="level-flow">
+        <article><span>1</span><strong>תא</strong><p>יחידת החיים הבסיסית ביותר.</p></article><b>←</b>
+        <article><span>2</span><strong>רקמה</strong><p>קבוצת תאים בעלי מבנה דומה.</p></article><b>←</b>
+        <article><span>3</span><strong>איבר</strong><p>מספר רקמות שונות הבונות יחידה תפקודית.</p></article><b>←</b>
+        <article><span>4</span><strong>מערכת</strong><p>קבוצת איברים ורקמות הקשורים לתפקוד פיזיולוגי דומה.</p></article><b>←</b>
+        <article><span>5</span><strong>גוף</strong></article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="a21-processes"><div class="section-kicker">05 · תהליכים בסיסיים</div><h3>דיפוזיה, אוסמוזה, מטבוליזם ונשימה תאית</h3>
+      <div class="concept-compare"><article><strong>דיפוזיה</strong><p>מעבר חומר דרך ממברנה חדירה מסביבה שבה ריכוזו גבוה לסביבה שבה ריכוזו נמוך, עד להשוואת ריכוזים.</p><div class="gradient high-to-low"><span>ריכוז גבוה</span><i>→</i><span>ריכוז נמוך</span></div></article><article><strong>אוסמוזה</strong><p>לפי המצגת: מעבר נוזלים דרך ממברנה חדירה למחצה מסביבה שבה הוא נמצא בריכוז נמוך לסביבה שבה ריכוזו גבוה, עד להשוואת ריכוזים.</p><div class="gradient low-to-high"><span>ריכוז נמוך</span><i>→</i><span>ריכוז גבוה</span></div></article></div>
+      <div class="mini-cards"><article><strong>מטבוליזם</strong><p>חילוף חומרים.</p></article><article><strong>נשימה אירובית</strong><p>נשימה בנוכחות חמצן.</p></article><article><strong>נשימה אנאירובית</strong><p>נשימה ללא נוכחות חמצן.</p></article></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>מבנה, תפקוד ויציבות</h3></div><p>היחידה מציגה את שפת היסוד להבנת גוף האדם: תחומי הלימוד, רמות הארגון, הומאוסטזיס ותהליכים בסיסיים בתא.</p></section>
+  `,
+
+  "2.2": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 2.2 בלבד</strong><p>החלוקה למערכות, התפקידים והמונחים נשמרו לפי המצגת.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#n22-roles">תפקידים</a><a href="#n22-map">מפת המערכת</a><a href="#n22-cns">מרכזית</a><a href="#n22-ans">אוטונומית</a><a href="#n22-neuron">נוירון</a></nav>
+
+    <section class="learning-section" id="n22-roles"><div class="section-kicker">01 · מערכת הבקרה</div><h3>מה עושה מערכת העצבים?</h3>
+      <div class="role-grid nervous"><article><span>01</span><strong>חישה</strong></article><article><span>02</span><strong>למידה ואגירת מידע</strong></article><article><span>03</span><strong>הפעלת מערכות הגוף</strong></article><article><span>04</span><strong>הומאוסטזיס</strong></article></div>
+    </section>
+
+    <section class="learning-section" id="n22-map"><div class="section-kicker">02 · חלוקה ראשית</div><h3>מרכזית והיקפית</h3>
+      <div class="system-split"><article><div class="system-badge">CNS</div><strong>מערכת העצבים המרכזית</strong><p>מרכז הבקרה של מערכת העצבים.</p></article><article><div class="system-badge">PNS</div><strong>מערכת העצבים ההיקפית</strong><p>קלט של גירויים מהסביבה החיצונית או הפנימית.</p></article></div>
+      <div class="tree-map"><div class="tree-root">מערכת העצבים</div><div class="tree-columns"><div><strong>מרכזית</strong><span>מוח גדול</span><span>מוח קטן</span><span>גזע המוח</span><span>חוט השדרה</span></div><div><strong>היקפית</strong><span>סומטית</span><span>אוטונומית</span><small>סימפתטית · פראסימפתטית</small></div></div></div>
+    </section>
+
+    <section class="learning-section" id="n22-cns"><div class="section-kicker">03 · המערכת המרכזית</div><h3>ארבעה מרכיבים ותפקידיהם</h3>
+      <div class="brain-grid"><article><div class="brain-icon">01</div><strong>המוח הגדול</strong><p>בנוי משתי המיספרות; כל המיספרה שולטת על צידו השני של הגוף בהצלבה.</p></article><article><div class="brain-icon">02</div><strong>המוח הקטן</strong><p>שיווי משקל, קואורדינציה וטונוס שרירים; במצגת מתואר כקשור לעידון תנועות.</p></article><article><div class="brain-icon">03</div><strong>גזע המוח</strong><p>אחראי על “משולש החיים” כפי שמופיע במצגת: נשימה, דופק, לחץ דם והכרה.</p></article><article><div class="brain-icon">04</div><strong>חוט השדרה</strong><p>מקשר בין מערכת העצבים ההיקפית והמרכזית.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="n22-ans"><div class="section-kicker">04 · המערכת ההיקפית</div><h3>סומטית ואוטונומית</h3>
+      <div class="two-column-callout"><article><strong>סומטית</strong><p>מערכת העצבים הרצונית.</p></article><article><strong>אוטונומית</strong><p>נחלקת לסימפתטית ולפראסימפתטית.</p></article></div>
+      <div class="autonomic-compare"><article class="sym"><h4>סימפתטית</h4><ul><li>הורמון פעיל – אדרנלין</li><li>דופק מהיר</li><li>הרחבת סמפונות</li><li>עצירת פעילות מערכת העיכול</li><li>עצירת שתן</li><li>אישונים מורחבים</li><li>עצירת רוק</li><li>הזעה מוגברת</li></ul></article><article class="para"><h4>פראסימפתטית</h4><ul><li>הורמון פעיל – אצטיל כולין</li><li>דופק איטי</li><li>כיווץ סימפונות</li><li>הגברת פעילות מערכת העיכול</li><li>ריקון שתן</li><li>אישונים מכווצים</li><li>הפרשה מוגברת של רוק</li></ul></article></div>
+    </section>
+
+    <section class="learning-section" id="n22-neuron"><div class="section-kicker">05 · יחידת הבסיס</div><h3>הנוירון</h3>
+      <div class="neuron-card"><div class="neuron-line"><span class="dendrite">דנדריט</span><i></i><span class="cell-body">גוף הנוירון</span><i class="axon-line"></i><span class="axon">אקסון</span></div><p>במצגת הנוירון מוצג כיחידה הבסיסית של תא עצב.</p></div>
+      <div class="fact-strip"><div><strong>12 זוגות</strong><span>עצבים היוצאים ישירות מהגולגולת לאברי מטרה</span></div><div><strong>ואגוס</strong><span>העצב המוכר ביותר במצגת, והעצב המרכזי המעצבב את המערכת הפראסימפתטית</span></div></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>מרכז בקרה ורשת תקשורת</h3></div><p>מערכת העצבים בנויה ממערכת מרכזית ומערכת היקפית, ומחברת בין חישה, עיבוד מידע והפעלת מערכות הגוף.</p></section>
+  `,
+
+  "2.3": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 2.3 בלבד</strong><p>מבנה דרכי הנשימה, תהליכי שאיפה ונשיפה והמונחים הפיזיולוגיים מוצגים לפי המקור.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#r23-roles">תפקידים</a><a href="#r23-chest">בית החזה</a><a href="#r23-airway">מסלול האוויר</a><a href="#r23-lungs">הריאות</a><a href="#r23-cycle">שאיפה ונשיפה</a><a href="#r23-terms">מונחים</a></nav>
+
+    <section class="learning-section" id="r23-roles"><div class="section-kicker">01 · למה אנחנו נושמים?</div><h3>תפקידי מערכת הנשימה</h3>
+      <div class="role-grid respiratory"><article><span>O₂</span><strong>אספקת חמצן</strong><p>חמצון.</p></article><article><span>CO₂</span><strong>הרחקת פחמן דו־חמצני</strong><p>אוורור.</p></article><article><span>pH</span><strong>איזון רמת החומציות</strong></article><article><span>+</span><strong>תפקידים נוספים</strong><p>במצגת מצוינים סינתזה, דיבור ועוד.</p></article></div>
+      <div class="concept-compare"><article><strong>נשימה חיצונית</strong><p>שחלוף גזים בין הריאות לדם.</p></article><article><strong>נשימה תאית</strong><p>שחלוף הגזים ויצירת אנרגיה.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="r23-chest"><div class="section-kicker">02 · בית החזה</div><h3>גבולות, מבנים ואיברים</h3>
+      <div class="chest-layout"><div class="thorax-visual"><span class="rib r1"></span><span class="rib r2"></span><span class="rib r3"></span><span class="sternum">סטרנום</span><span class="diaphragm">סרעפת</span></div><div><h4>גבולות בית החזה</h4><div class="tag-cloud"><span>צוואר</span><span>סרעפת</span><span>עצם החזה</span><span>חוליות</span><span>צלעות</span></div><h4>איברים בבית החזה</h4><div class="tag-cloud"><span>לב וכלי דם</span><span>ריאות</span><span>סימפונות</span><span>קנה הנשימה</span><span>עצבים</span><span>ושט</span></div></div></div>
+      <div class="mini-cards"><article><strong>כלוב בית החזה</strong><p>הגנה וסיוע בנשימה.</p></article><article><strong>קרומי הפלואורה</strong><p>קרום פנימי וקרום חיצוני, וביניהם נוזל סיכוך כפי שמוצג במצגת.</p></article><article><strong>שרירי הנשימה</strong><p>השרירים הבין־צלעיים והסרעפת משתתפים בתהליך הנשימה.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="r23-airway"><div class="section-kicker">03 · מסלול האוויר</div><h3>מדרכי הנשימה העליונות ועד הנאדיות</h3>
+      <div class="airway-flow"><div><strong>אף</strong><small>מסנן, מלחלח, מחמם</small></div><i>←</i><div><strong>פה / לוע</strong></div><i>←</i><div><strong>אפיגלוטיס</strong><small>סוגר את הקנה בזמן הבליעה</small></div><i>←</i><div><strong>גרון</strong><small>תיבת הקול</small></div><i>←</i><div><strong>קנה הנשימה</strong></div><i>←</i><div><strong>סימפונות</strong></div><i>←</i><div><strong>סימפוניות</strong></div><i>←</i><div><strong>נאדיות</strong></div></div>
+      <div class="two-column-callout"><article><strong>דרכי נשימה עליונות</strong><p>אף, פה, לוע, אפיגלוטיס וגרון/תיבת הקול.</p></article><article><strong>דרכי נשימה תחתונות</strong><p>קנה הנשימה, סימפונות, ריאות ונאדיות.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="r23-lungs"><div class="section-kicker">04 · הריאות</div><h3>שתי ריאות — מספר אונות שונה</h3>
+      <div class="lung-pair"><article class="lung left"><div class="lung-shape"></div><strong>ריאה שמאלית</strong><span>2 אונות</span><small>עליונה · תחתונה</small></article><article class="lung right"><div class="lung-shape"></div><strong>ריאה ימנית</strong><span>3 אונות</span><small>עליונה · אמצעית · תחתונה</small></article></div>
+      <div class="focus-card"><p>לפי המצגת, פעולת הריאות היא <strong>פאסיבית</strong>, וניפוח הריאה נעשה על ידי שרירי הנשימה.</p></div>
+      <div class="air-composition"><strong>הרכב האוויר המוצג במצגת</strong><div><span><b>21%</b> חמצן</span><span><b>~78%</b> חנקן</span><span><b>0.03</b> פחמן דו־חמצני</span><span>גזים אחרים</span></div></div>
+    </section>
+
+    <section class="learning-section" id="r23-cycle"><div class="section-kicker">05 · מכניקת הנשימה</div><h3>שאיפה מול נשיפה</h3>
+      <div class="breathing-compare"><article class="inhale"><h4>שאיפה · Inspirium</h4><span class="activity-badge">תהליך אקטיבי</span><ul><li>השרירים הבין־צלעיים והסרעפת מתכווצים.</li><li>הלחץ בריאות יורד.</li><li>הריאות נמשכות ומתרחבות עם בית החזה עקב תת־הלחץ בין קרומי הפלאורה.</li><li>אוויר נשאף לריאות לצורך השוואת לחצים.</li><li>בית החזה מתרחב.</li></ul></article><article class="exhale"><h4>נשיפה · Expirium</h4><span class="activity-badge passive">תהליך פסיבי</span><ul><li>השרירים הבין־צלעיים והסרעפת רפים.</li><li>הלחץ בריאות עולה.</li><li>הריאות רפות עם בית החזה.</li><li>אוויר יוצא החוצה לצורך השוואת לחצים.</li><li>בית החזה רפה.</li></ul></article></div>
+    </section>
+
+    <section class="learning-section" id="r23-terms"><div class="section-kicker">06 · שלושה מונחים</div><h3>דיפוזיה, היפוקסיה ופרפוזיה</h3>
+      <div class="definition-grid three"><article><strong>דיפוזיה</strong><p>תנועה של חומר דרך תווך מריכוז גבוה לריכוז נמוך, עד להשגת שוויון ריכוזים.</p></article><article><strong>היפוקסיה / היפוקסמיה</strong><p>היפוקסיה – חוסר חמצן ברקמה. היפוקסמיה – חוסר חמצן בדם.</p></article><article><strong>פרפוזיה</strong><p>מעבר של נוזל בתוך רקמה; במצגת הדגש הוא על מעבר דם דרך רקמת הריאה לקליטת חמצן ולשחרור פחמן דו־חמצני.</p></article></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>האוויר נכנס — חילוף הגזים מתחיל</h3></div><p>היחידה מחברת בין מבנה בית החזה ודרכי הנשימה לבין תהליך השאיפה, הנשיפה וחילוף הגזים.</p></section>
+  `,
+
+  "2.4": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 2.4 בלבד</strong><p>הנתונים והניסוחים נשמרו לפי המצגת. כאשר סדר המחזורים מוצג במקור, הוא מסומן כאן במפורש כ“לפי המצגת”.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#c24-roles">תפקידים</a><a href="#c24-blood">הדם</a><a href="#c24-heart">הלב</a><a href="#c24-cycles">מחזורי דם</a><a href="#c24-vessels">כלי דם</a><a href="#c24-pressure">דופק ולחץ דם</a></nav>
+
+    <section class="learning-section" id="c24-roles"><div class="section-kicker">01 · מערכת ההובלה</div><h3>לב, כלי דם ודם</h3>
+      <div class="circulation-triad"><article><div>♥</div><strong>הלב</strong><span>המשאבה</span></article><article><div>↔</div><strong>כלי הדם</strong><span>הצינורות</span></article><article><div>●</div><strong>הדם</strong><span>הנוזל</span></article></div>
+      <div class="process-chip-grid"><span>הובלת חמצן</span><span>הרחקת פחמן דו־חמצני</span><span>הגנה</span><span>הומאוסטזיס</span></div>
+    </section>
+
+    <section class="learning-section" id="c24-blood"><div class="section-kicker">02 · ממה בנוי הדם?</div><h3>פלסמה ותאים</h3>
+      <div class="blood-donut"><div class="donut" aria-label="55 אחוז פלסמה, 45 אחוז תאים"><span>55%</span><small>פלסמה</small></div><div class="blood-details"><article><strong>פלסמה · 55%</strong><p>90% מים, וכן חלבונים, גזים, מלחים ועוד.</p></article><article><strong>תאים · 45%</strong><p>תאי דם אדומים, תאי דם לבנים וטסיות דם.</p></article></div></div>
+      <div class="blood-cell-grid"><article><span>RBC</span><strong>תאי דם אדומים</strong><p>מכילים המוגלובין ונושאים חמצן.</p></article><article><span>WBC</span><strong>תאי דם לבנים</strong><p>מהווים את מערך החיסון וההגנה בפני מזהמים לא רצויים.</p></article><article><span>PLT</span><strong>טסיות דם</strong><p>אחראיות על קרישת הדם.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="c24-heart"><div class="section-kicker">03 · הלב</div><h3>מבנה ומאפיינים</h3>
+      <div class="heart-layout"><div class="heart-visual"><div class="chamber tl">עלייה ימין</div><div class="chamber tr">עלייה שמאל</div><div class="chamber bl">חדר ימין</div><div class="chamber br">חדר שמאל</div></div><div class="heart-facts"><p><strong>מיקום:</strong> מרכז בית החזה עם נטייה קלה שמאלה.</p><p><strong>מבנה:</strong> שתי עליות ושני חדרים; הלב הוא שריר.</p><p><strong>מחזור הדם:</strong> מערכת סגורה, חד־כיוונית ומעגלית.</p><p><strong>מערכת ההולכה:</strong> מערכת הולכה חשמלית המפעילה מכאנית את הלב.</p></div></div>
+      <div class="layer-stack"><span>פריקד</span><span>אפיקרד</span><span>מיוקרד</span><span>אנדוקרד</span></div>
+      <p class="small-source-note">השכבות מוצגות מן החוץ אל הפנים, כפי שמופיע במצגת.</p>
+    </section>
+
+    <section class="learning-section" id="c24-cycles"><div class="section-kicker">04 · שני מחזורים</div><h3>מחזור גדול ומחזור קטן</h3>
+      <div class="cycle-grid"><article><strong>המחזור הגדול · מערכתי</strong><div class="cycle-flow"><span>חדר שמאלי</span><i>→</i><span>גוף</span><i>→</i><span>עלייה ימנית</span></div></article><article><strong>המחזור הקטן · ריאתי</strong><p class="source-flag">לפי הסדר המופיע במצגת:</p><div class="cycle-flow"><span>עלייה שמאלית</span><i>→</i><span>ריאות</span><i>→</i><span>חדר ימני</span></div></article></div>
+      <div class="two-column-callout"><article><strong>כיווץ</strong><p>אחת משתי הפעולות העיקריות של הלב.</p></article><article><strong>הרפיה</strong><p>הפעולה העיקרית השנייה.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="c24-vessels"><div class="section-kicker">05 · הצינורות</div><h3>עורק, וריד ונים</h3>
+      <div class="vessel-flow"><div><strong>לב</strong></div><i>→</i><div class="artery"><strong>עורק</strong><small>מהלב לאיבר מטרה</small></div><i>→</i><div><strong>עורקיק</strong></div><i>→</i><div class="capillary"><strong>נים</strong><small>שחלוף חומרים</small></div><i>→</i><div><strong>ורידון</strong></div><i>→</i><div class="vein"><strong>וריד</strong><small>חזרה ללב</small></div></div>
+      <div class="focus-card"><p><strong>עורקים מרכזיים שמופיעים במצגת:</strong> קרוטיד, ברכיאלי, פמורלי, סאבקלויאן. עורק כלילי/קורונרי מזין בדם ובחמצן את שריר הלב.</p></div>
+    </section>
+
+    <section class="learning-section" id="c24-pressure"><div class="section-kicker">06 · מדדים</div><h3>דופק ולחץ דם</h3>
+      <div class="metric-grid"><article><span>דופק</span><strong>הלחץ של גלי הדם על דפנות העורקים</strong></article><article><span>לחץ דם</span><strong>הלחץ שמפעיל הדם על דפנות כלי הדם</strong></article></div>
+      <div class="pressure-bar"><div><strong>סיסטולי</strong><span>כיווץ הלב</span></div><div><strong>דיאסטולי</strong><span>הרפיית הלב</span></div><div><strong>לחץ דופק</strong><span>ההפרש בין הסיסטולי לדיאסטולי — 30–60 ממ״כ לפי המצגת</span></div></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>משאבה, צינורות ונוזל</h3></div><p>מערכת הלב וכלי הדם מתוארת כיחידה אחת: הלב מניע, כלי הדם מובילים והדם נושא חומרים ומבצע תפקידי הגנה והומאוסטזיס.</p></section>
+  `,
+
+  "2.5": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 2.5 בלבד</strong><p>תפקידי השלד, סוגי העצמות, עמוד השדרה, הצלעות והשרירים נשמרו לפי חומר המקור.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#m25-roles">תפקידי השלד</a><a href="#m25-bones">עצמות ומפרקים</a><a href="#m25-spine">עמוד השדרה</a><a href="#m25-ribs">צלעות</a><a href="#m25-muscles">שרירים</a><a href="#m25-tendon">גיד</a></nav>
+
+    <section class="learning-section" id="m25-roles"><div class="section-kicker">01 · למה צריך שלד?</div><h3>תפקידי מערכת השלד</h3>
+      <div class="role-grid skeletal"><article><span>01</span><strong>עיצוב וצורה</strong></article><article><span>02</span><strong>תנועה</strong><p>בעזרת שרירי השלד.</p></article><article><span>03</span><strong>הגנה</strong><p>על איברים פנימיים וכלי דם.</p></article><article><span>04</span><strong>אחסון</strong><p>מלחים, שומנים וחומרים אחרים למטבוליזם.</p></article><article><span>05</span><strong>ייצור תאי דם</strong></article></div>
+    </section>
+
+    <section class="learning-section" id="m25-bones"><div class="section-kicker">02 · 206 עצמות</div><h3>סוגי עצמות, סחוס ומפרקים</h3>
+      <div class="bone-types"><article><div class="bone-shape long"></div><strong>ארוכות / גליליות</strong><p>הגפיים.</p></article><article><div class="bone-shape flat"></div><strong>שטוחות</strong><p>צלעות, עצם האגן ועצם השכמה.</p></article><article><div class="bone-shape irregular"></div><strong>לא מוגדרות</strong><p>חוליות עמוד השדרה וכף יד / רגל.</p></article></div>
+      <div class="two-column-callout"><article><strong>סחוס</strong><p>רקמת חיבור גמישה וחזקה.</p></article><article><strong>מפרקים</strong><p>עצמות הגפיים מחוברות בחיבורי מפרק.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="m25-spine"><div class="section-kicker">03 · הציר המרכזי</div><h3>עמוד השדרה</h3>
+      <div class="spine-layout"><div class="spine-visual"><span class="cervical">צווארי</span><span class="thoracic">חזי</span><span class="lumbar">מותני</span><span class="sacral">עצתי</span><span class="coccyx">זנבי</span></div><div><div class="fact-strip vertical"><div><strong>32–34</strong><span>חוליות לפי המצגת</span></div><div><strong>הגנה</strong><span>על מוח השדרה</span></div><div><strong>תנועה</strong><span>של הראש וחלק הגוף העליון</span></div></div></div></div>
+      <div class="spine-parts"><span>Cervical · צווארי</span><span>Thoracic · חזי</span><span>Lumbar · מותני</span><span>Sacrum · עצתי</span><span>Coccyx · זנבי</span></div>
+    </section>
+
+    <section class="learning-section" id="m25-ribs"><div class="section-kicker">04 · כלוב בית החזה</div><h3>12 זוגות צלעות</h3>
+      <div class="rib-cage-card"><div class="rib-cage-symbol">12×2</div><div><p>במצגת מופיעים <strong>12 זוגות של צלעות</strong> ועצם החזה — סטרנום.</p><p>שתי הצלעות התחתונות אינן מחוברות לעצם החזה.</p></div></div>
+    </section>
+
+    <section class="learning-section" id="m25-muscles"><div class="section-kicker">05 · שלושה סוגי שרירים</div><h3>לכל סוג אופי פעולה שונה</h3>
+      <div class="muscle-grid"><article><div class="muscle-icon striped"></div><strong>שרירי שלד</strong><p>משורטטים; ידיים ורגליים; שריר חזק לפעולה קצרת טווח.</p></article><article><div class="muscle-icon smooth"></div><strong>שרירים חלקים</strong><p>כלי דם, סמפונות ומערכת העיכול; שריר חלש לפעולה ארוכת טווח.</p></article><article><div class="muscle-icon cardiac">♥</div><strong>שריר הלב</strong><p>שריר חזק לפעולה ארוכת טווח.</p></article></div>
+      <div class="focus-card"><p>לפי המצגת, סוגי השרירים משתנים בין איבר לאיבר בהתאם לאופי פעולתו, ולשריר הלב יש שילוב של תכונות שריר השלד והשריר החלק.</p></div>
+    </section>
+
+    <section class="learning-section" id="m25-tendon"><div class="section-kicker">06 · החיבור בין עצם לשריר</div><h3>גיד</h3>
+      <div class="tendon-diagram"><div class="bone-block">עצם</div><div class="tendon-band">גיד</div><div class="muscle-block">שריר</div></div>
+      <ul class="clean-list"><li>רקמת חיבור מיוחדת בין עצם לשריר.</li><li>רקמה חזקה מאוד שאינה מתכווצת.</li><li>לפי המצגת, עלולה לגרום לשבר בעצם ולא להיקרע — לדוגמה בהתחשמלות.</li></ul>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>שלד, מפרקים, שרירים וגידים</h3></div><p>המערכת נותנת לגוף צורה, הגנה ותנועה, ובנויה ממספר סוגי רקמות בעלות תפקידים שונים.</p></section>
   `
+
 
 };
 
