@@ -866,7 +866,121 @@ const richLessons = {
       </div>
       <p>המצגת מציגה את מד״א דרך שבעה רבדים: זהות הארגון, התפתחות היסטורית, תחומי פעילות, מבנה, פריסה ארצית, אמצעי מענה ופעילות הומניטרית. כל החלקים לעיל בנויים מחדש מתוך אותם נתונים, ללא הוספת מידע חיצוני.</p>
     </section>
+  `,
+  "1.2": `
+    <div class="source-note">
+      <div class="source-note-mark">מקור</div>
+      <div><strong>היחידה בנויה מחדש מתוך מצגת 1.2 בלבד</strong><p>הטקסט אורגן מחדש לעמוד למידה קריא. לא נוספו הנחיות טיפול, סמכויות או עובדות שלא מופיעות במקור.</p></div>
+    </div>
+
+    <nav class="lesson-jump-nav" aria-label="ניווט בתוך היחידה">
+      <a href="#fa-definition">מהי עזרה ראשונה</a><a href="#fa-levels">דרגי טיפול</a><a href="#fa-duty">חובת עזרה</a><a href="#fa-scene">תפקידי המע״ר</a><a href="#fa-limits">איסורים וסמכויות</a><a href="#fa-call">שיחה עם המוקד</a><a href="#fa-ethics">סודיות וצנעת הפרט</a>
+    </nav>
+
+    <section class="learning-section" id="fa-definition">
+      <div class="section-kicker">01 · הבסיס</div><h3>מהי עזרה ראשונה?</h3>
+      <div class="definition-hero"><div class="definition-icon">+</div><div><p class="big-copy">כל טיפול רפואי דחוף הניתן עד להגעה למתקן רפואי, קרוב ככל הניתן לזמן האירוע.</p><div class="goal-chips"><span>עצירת התדרדרות הנפגע</span><span>הטבת המצב במידת האפשר</span><span>דאגה לפינוי לדרג מתקדם יותר</span></div></div></div>
+    </section>
+
+    <section class="learning-section" id="fa-levels">
+      <div class="section-kicker">02 · רצף הטיפול</div><h3>שלושה דרגי טיפול</h3>
+      <div class="care-levels"><article><span>1</span><strong>דרג ראשוני</strong><p>טיפול טרום בית חולים.</p></article><div class="flow-arrow">←</div><article><span>2</span><strong>דרג שניוני</strong><p>טיפול ברמת בית חולים.</p></article><div class="flow-arrow">←</div><article><span>3</span><strong>דרג שלישוני</strong><p>התערבות ניתוחית.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="fa-duty">
+      <div class="section-kicker">03 · אחריות בסיסית</div><h3>חוק "לא תעמוד על דם רעך"</h3>
+      <div class="law-card"><p>לפי המצגת, החוק מחייב כל אדם להושיט עזרה לאדם הנמצא בסכנה מיידית וחמורה המאיימת על חייו ושלמות גופו — <strong>כפי יכולתו וסמכותו ומבלי לסכן את עצמו והזולת</strong>.</p></div>
+      <div class="emergency-numbers"><div><strong>100</strong><span>משטרה</span></div><div><strong>101</strong><span>מד״א</span></div><div><strong>102</strong><span>שירותי הכבאות</span></div></div>
+      <p class="source-caution">המספרים מוצגים כאן כפי שהם מופיעים במצגת המקור.</p>
+    </section>
+
+    <section class="learning-section" id="fa-scene">
+      <div class="section-kicker">04 · בזירת האירוע</div><h3>תפקידי מגיש העזרה הראשונה</h3>
+      <div class="scene-flow">
+        <article><span>1</span><strong>סריקת הזירה</strong><p>בטראומה: מספר פצועים, סכנות וכדומה. בחולה: תנוחה, רמזים סביבתיים וכדומה.</p></article>
+        <article><span>2</span><strong>אבחנה משוערת</strong><p>להסתמך על סיפור המקרה, סימנים חיצוניים ותלונות הנפגע.</p></article>
+        <article><span>3</span><strong>לוודא הזמנת אמבולנס</strong><p>להפעיל את מערך החירום בהתאם למצב.</p></article>
+        <article><span>4</span><strong>הרחקה ממקור סכנה</strong><p>להרחיק נפגעים ממקור הסכנה.</p></article>
+        <article><span>5</span><strong>טיפול ראשוני</strong><p>לתת טיפול בהתאם לידע שנלמד בקורס בלבד.</p></article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="fa-limits">
+      <div class="section-kicker">05 · גבולות ברורים</div><h3>מה אסור לעשות?</h3>
+      <div class="dont-grid"><div>אין לקבוע מוות</div><div>אין לסטור או להכות חולה / נפגע</div><div>אין לשפוך מים על החולה / נפגע</div><div>אין לתת תרופות או למרוח משחות</div><div>אין לשחרר נפגע ללא המשך טיפול</div><div>אין לחרוג מסמכויות טיפול</div></div>
+      <div class="warning-box"><strong>חריגה מסמכות</strong><p>ביצוע פעולה או הליך כלשהו שלא נלמדו בקורס ולא הוסמכת לבצע.</p></div>
+      <h4 class="subheading">בעלי תפקידים רפואיים — כפי שמפורטים במצגת</h4>
+      <div class="role-accordion-static">
+        <article><strong>רופא</strong><p>בהתאם להכשרתו והתמחותו: מתן תרופות, ביצוע פרוצדורות חודרניות וקביעת מוות.</p></article>
+        <article><strong>אח / אחות</strong><p>סמכויות מוגבלות לביצוע פעולות חודרניות ומתן תרופות בפיקוח רופא.</p></article>
+        <article><strong>פאראמדיק</strong><p>סמכויות מוגבלות בפעולות חודרניות ומתן תרופות לפי נוהל וסדר טיפול קבוע וכתוב (פרוטוקול), באישור רופא או בהשגחתו.</p></article>
+        <article><strong>חובש בכיר</strong><p>המצגת מפרטת דפיברילציה ידנית, שאיבת תרופות בפיקוח, סמכות מוגבלת באספירין וחמצן לפי פרוטוקול, וכן פתיחת וריד בהתאם לנהלי המסגרת.</p></article>
+        <article><strong>חובש רפואת חירום</strong><p>סמכויות מוגבלות הכוללות לפי המצגת אספירין וחמצן, פתיחת וריד בהתאם לנהלי מד״א ודפיברילציה חצי אוטומטית.</p></article>
+        <article><strong>מגיש עזרה ראשונה</strong><p>סמכויות מוגבלות ביותר: פעולות דחופות ומצילות חיים, מתן חמצן, ללא שימוש בתרופות וללא פעולה חודרנית. המצגת מציינת שיש דרגות הכשרה שונות.</p></article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="fa-call">
+      <div class="section-kicker">06 · הזעקת עזרה</div><h3>איך לדבר עם תורן המוקד?</h3>
+      <div class="call-card"><div class="phone-ring">101</div><div><p><strong>ענה בקצרה ובבירור.</strong></p><ul><li>מספר טלפון</li><li>מיקום מדויק</li><li>מספר נפגעים</li><li>מצב וגיל</li><li>תלונה עיקרית</li><li>מחלות רקע</li></ul><p class="call-last"><strong>נתק את השיחה רק לאחר שתורן המוקד ניתק.</strong></p></div></div>
+    </section>
+
+    <section class="learning-section" id="fa-ethics">
+      <div class="section-kicker">07 · התנהלות מקצועית</div><h3>שלושה כללים מסכמים</h3>
+      <div class="principle-cards"><article><strong>פעל רק במסגרת ההכשרה</strong><p>הגש עזרה ראשונה מבלי לחרוג מסמכויותיך ועל פי מה שלמדת בלבד.</p></article><article><strong>סודיות רפואית</strong><p>שמור על סודיות רפואית.</p></article><article><strong>צנעת הפרט</strong><p>שמור על צנעת הפרט.</p></article></div>
+    </section>
+
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>עזרה ראשונה היא גם טיפול — וגם גבולות</h3></div><p>המצגת מחברת בין מטרה רפואית ברורה, בטיחות בזירה, הזעקת עזרה, פעולה לפי סדר, והקפדה שלא לבצע פעולה שלא הוכשרת אליה.</p></section>
+  `,
+
+  "1.3": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 1.3 בלבד</strong><p>כל התאריכים, ההגדרות, שבעת העקרונות והסמלים נשענים על חומר המקור. דילמות שמופיעות במצגת נשמרו כדוגמאות לחשיבה, בלי להוסיף פתרון שאינו מופיע בה.</p></div></div>
+
+    <nav class="lesson-jump-nav" aria-label="ניווט בתוך היחידה"><a href="#ihl-birth">לידת התנועה</a><a href="#ihl-dunant">הנרי דונאנט</a><a href="#ihl-geneva">ז׳נבה והקמת התנועה</a><a href="#ihl-mda">מד״א והתנועה</a><a href="#ihl-principles">7 העקרונות</a><a href="#ihl-symbols">סמלי התנועה</a><a href="#ihl-structure">מבנה בינלאומי</a></nav>
+
+    <section class="learning-section" id="ihl-birth"><div class="section-kicker">01 · מאיפה זה התחיל?</div><h3>לידתה של התנועה ההומניטרית</h3><p class="big-copy">המצגת מתחילה ברעיון של סיוע לפצועים, ומובילה ממנו להקמת תנועה בינלאומית בעלת עקרונות וסמלים מוסכמים.</p></section>
+
+    <section class="learning-section" id="ihl-dunant"><div class="section-kicker">02 · הנרי דונאנט</div><h3>1828–1910</h3>
+      <div class="profile-grid"><div class="profile-monogram">HD</div><div><ul class="clean-list"><li>שוויצרי, בן בכור למשפחה אמידה שהייתה מעורבת בקהילה ובעזרה לזולת.</li><li>עסקן ציבור וחבר בארגוני סעד ושלום.</li><li>לפי המצגת, האמין גם כי על העם היהודי להקים בית לאומי.</li><li>היה הראשון שקיבל את פרס נובל לשלום, יחד עם אדוארד פסי, בשנת 1901.</li></ul></div></div>
+      <div class="history-event"><span class="event-year">1859</span><div><strong>קרב סולפרינו</strong><p>צרפת מול אוסטריה. לפי המצגת, 40,000 פצועים והרוגים נותרו בשדה הקרב; דונאנט גייס אוכלוסייה מקומית וטיפל בפצועים.</p></div></div>
+      <div class="quote-panel"><strong>החזון שהתגבש</strong><p>יש לטפל בחיילים פצועים, ויש להקים יחידות סיוע רפואיות שיצטרפו אל הצבא ויהיו מוגנות באמצעות סימן מוסכם בינלאומי וקבוע.</p></div>
+    </section>
+
+    <section class="learning-section" id="ihl-geneva"><div class="section-kicker">03 · מהרעיון למוסדות</div><h3>1863–1864</h3>
+      <div class="timeline-modern compact-timeline"><article><div class="timeline-year">1863</div><div class="timeline-body"><strong>הוועד הבינלאומי לסיוע לפצועים</strong><p>בפברואר 1863 הקים דונאנט עם עוד ארבעה פעילי ציבור תושבי ז׳נבה את הוועד, שהפך בהמשך לוועד הבינלאומי של הצלב האדום (ICRC).</p></div></article><article><div class="timeline-year">1864</div><div class="timeline-body"><strong>ועידת ז׳נבה הראשונה</strong><p>רעיונותיו של דונאנט שימשו תשתית רעיונית לוועידה. התקבלה אמנת ז׳נבה הראשונה ונוסדו אגודות לאומיות שתפקידן המקורי היה לשמש כוח עזר לצבא ולטפל בחיילים פצועים.</p></div></article></div>
+    </section>
+
+    <section class="learning-section" id="ihl-mda"><div class="section-kicker">04 · מד״א בתוך התנועה</div><h3>מגן דוד אדום והרעיון הבינלאומי</h3>
+      <div class="mda-history-grid"><article><span>1930</span><strong>ייסוד מד״א בתל אביב</strong><p>נוסד בידי מתנדבים מתוך כוונה לשמש האגודה הישראלית של הצלב האדום.</p></article><article><span>1950</span><strong>הכרה חוקית</strong><p>לפי המצגת, מד״א הוכר כארגון ההצלה והחירום הראשי בישראל על ידי חוק מגן דוד אדום, ופועל לפי עקרונות התנועה.</p></article></div>
+      <p>המצגת מציינת שהיישוב היהודי המתרחב, בתקופת העלייה השנייה והשלישית וכ־20 שנה לפני קום המדינה, נזקק לשירותי רפואת חירום מקרב העם המתיישב.</p>
+    </section>
+
+    <section class="learning-section" id="ihl-principles"><div class="section-kicker">05 · הלב הערכי של התנועה</div><h3>שבעת עקרונות היסוד</h3>
+      <div class="seven-principles">
+        <article><span>01</span><strong>הומאניות · Humanity</strong><p>למנוע ולהפחית סבל אנושי, להגן על חיי ובריאות האדם ולשמור על כבודו. התנועה שואפת לקדם הבנה הדדית, ידידות, שיתוף פעולה ושלום.</p></article>
+        <article><span>02</span><strong>אי משוא פנים · Impartiality</strong><p>אין אפליה לפי לאום, דת, גזע, אמונה דתית, מעמד או דעה פוליטית; העזרה ניתנת לפי צורך, תוך עדיפות למקרים הדחופים ביותר.</p></article>
+        <article><span>03</span><strong>ניטרליות · Neutrality</strong><p>התנועה אינה נוקטת עמדה במעשי איבה ואינה מתערבת בחילוקי דעות פוליטיים, גזעיים, דתיים או אידיאולוגיים. חבר בתנועה רשאי לדעה אישית, אך אסור לה להשפיע על פעולותיו בשטח.</p></article>
+        <article><span>04</span><strong>עצמאות · Independence</strong><p>האגודות הלאומיות מסייעות לשירותים ההומניטריים של ממשלותיהן וכפופות לחוקי ארצן, אך חייבות לשמור על עצמאות שתאפשר להן לפעול לפי עקרונות התנועה.</p></article>
+        <article><span>05</span><strong>שירות בהתנדבות · Voluntary service</strong><p>תנועת סעד התנדבותית שאינה מונעת מכוונות רווח. המצגת מבהירה שהדבר אינו שולל העסקת עובדים בשכר.</p></article>
+        <article><span>06</span><strong>אחדות · Unity</strong><p>בכל מדינה יכולה להיות אגודת צלב אדום או סהר אדום אחת; עליה להיות פתוחה לכל ולהתמיד בפעילות הומניטרית בכל שטחה.</p></article>
+        <article><span>07</span><strong>אוניברסאליות · Universality</strong><p>התנועה היא כלל־עולמית; כל האגודות נהנות ממעמד שווה וחולקות אחריות וחובות שוות בעזרה זו לזו.</p></article>
+      </div>
+      <div class="dilemma-strip"><strong>דילמות שמופיעות במצגת</strong><p>המצגת מציגה מקרים של נפגעים בעלי רקע אישי או פוליטי מנוגד כדי לעורר דיון על אי־משוא־פנים וניטרליות. היא אינה מספקת תשובה מפורטת לכל דילמה, ולכן גם כאן איננו מוסיפים תשובה שאינה במקור.</p></div>
+    </section>
+
+    <section class="learning-section" id="ihl-symbols"><div class="section-kicker">06 · סמלים מוגנים</div><h3>סמלי התנועה</h3>
+      <p class="section-intro">בוועידה נקבע סימן קבוע ומוסכם שמשמעותו צוות, מתקן או אובייקט רפואי שאין לפגוע בו. לפי המצגת, הצלב האדום נבחר כהיפוך צבעי דגל שווייץ.</p>
+      <div class="symbol-grid"><article><div class="symbol cross">+</div><strong>הצלב האדום</strong></article><article><div class="symbol crescent">☾</div><strong>הסהר האדום</strong><p>התקבל לאחר שבמלחמת רוסיה–טורקיה ב־1876 האימפריה העות׳מאנית הודיעה שתשתמש בסהר.</p></article><article><div class="symbol crystal">◇</div><strong>הקריסטל האדום</strong><p>אומץ כסמל נוסף לתנועה בשנת 2006.</p></article></div>
+      <div class="historical-symbol-note"><strong>סמל האריה והשמש</strong><p>לפי המצגת, פרס קיבלה ב־1899 זכות להשתמש בו; ב־1980 ויתרה עליו ועברה להשתמש בסהר האדום.</p></div>
+    </section>
+
+    <section class="learning-section" id="ihl-structure"><div class="section-kicker">07 · מבנה התנועה</div><h3>שלושה מרכיבים מרכזיים</h3>
+      <div class="international-structure"><div class="structure-top">התנועה הבינלאומית</div><div class="structure-row"><article><strong>ICRC</strong><span>הוועד הבינלאומי של הצלב האדום</span></article><article><strong>IFRC</strong><span>הפדרציה הבינלאומית של האגודות הלאומיות</span></article><article><strong>אגודות לאומיות</strong><span>ובהן מגן דוד אדום — האגודה הלאומית של ישראל</span></article></div></div>
+    </section>
+
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>רעיון אחד, תנועה עולמית ושבעה עקרונות</h3></div><p>היחידה עוקבת מהחוויה של דונאנט בסולפרינו, דרך הקמת המוסדות והאמנות, ועד שבעת עקרונות התנועה, הסמלים המוגנים ומקומו של מד״א בתוך התנועה הבינלאומית.</p></section>
   `
+
 };
 
 const nav = document.getElementById("courseNav");
