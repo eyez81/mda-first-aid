@@ -1156,6 +1156,222 @@ const richLessons = {
     <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>שלד, מפרקים, שרירים וגידים</h3></div><p>המערכת נותנת לגוף צורה, הגנה ותנועה, ובנויה ממספר סוגי רקמות בעלות תפקידים שונים.</p></section>
   `
 
+,
+  "3.1": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 3.1 בלבד</strong><p>הסדר, המספרים וההנחיות בעמוד נשמרו לפי חומר המקור. לא נוספו הנחיות רפואיות ממקור חיצוני.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#c31-why">למה החייאה?</a><a href="#c31-chain">שרשרת ההישרדות</a><a href="#c31-adult">מבוגר</a><a href="#c31-aed">דפיברילטור</a><a href="#c31-child">ילדים ותינוקות</a><a href="#c31-compare">השוואה</a></nav>
+
+    <section class="learning-section" id="c31-why">
+      <div class="section-kicker">01 · נקודת הפתיחה</div><h3>דום לב והחשיבות של התחלה מוקדמת</h3>
+      <div class="hero-fact-card"><div class="hero-fact-icon">♥</div><div><strong>החייאה בסיסית היא המפתח להצלת חיים בדום לב</strong><p>לפי המצגת, זיהוי מהיר, הזעקת עזרה, החייאה ושימוש בדפיברילטור משפיעים על סיכויי ההישרדות וההחלמה הנוירולוגית.</p></div></div>
+      <div class="definition-grid three">
+        <article><strong>מוות קליני</strong><p>אין דופק ואין נשימה — מצב הפיך לפי המצגת.</p></article>
+        <article><strong>מוות מוחי</strong><p>אין דופק ואין נשימה — מצב בלתי הפיך לפי המצגת.</p></article>
+        <article><strong>חלון הזמן</strong><p>המצגת מציינת כ־4–6 דקות בין מוות קליני למוות מוחי.</p></article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="c31-chain">
+      <div class="section-kicker">02 · שרשרת ההישרדות</div><h3>חמישה שלבים רצופים</h3>
+      <div class="survival-chain">
+        <article><b>1</b><strong>זיהוי מוקדם</strong><span>דום לב, הזעקת עזרה ודפיברילטור</span></article>
+        <i>←</i><article><b>2</b><strong>החייאה מוקדמת</strong><span>בדגש על עיסויי חזה</span></article>
+        <i>←</i><article><b>3</b><strong>שוק חשמלי מוקדם</strong><span>כאשר יש התוויה לכך</span></article>
+        <i>←</i><article><b>4</b><strong>החייאה מתקדמת</strong></article>
+        <i>←</i><article><b>5</b><strong>טיפול לאחר החייאה</strong></article>
+      </div>
+      <div class="age-strip">
+        <article><strong>בוגר</strong><span>מהופעת סימני בגרות</span></article>
+        <article><strong>ילד</strong><span>מגיל שנה עד הופעת סימני בגרות</span></article>
+        <article><strong>תינוק</strong><span>מגיל 28 יום עד גיל שנה</span></article>
+        <article><strong>יילוד</strong><span>עד גיל 28 יום</span></article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="c31-adult">
+      <div class="section-kicker">03 · החייאת מבוגר</div><h3>הסדר שמופיע במצגת</h3>
+      <div class="cpr-flow">
+        <article><b>1</b><strong>בטיחות</strong><p>ודא בטיחות מטפל, צוות ומטופל; נטרל סכנות והזעק כוחות נוספים במידת הצורך.</p></article>
+        <article><b>2</b><strong>בדיקת הכרה</strong><p>בדיקה מילולית ופיזית.</p></article>
+        <article><b>3</b><strong>התרשמות מנשימה</strong><p>אם נושם — תנוחת החלמה ושמירה על נתיב אוויר. אם אינו נושם או נושם “נשימות אחרונות” — הזעק עזרה ועבור ל־C.</p></article>
+        <article><b>4</b><strong>קריאה לעזרה</strong><p>חיוג 101 והשגת דפיברילטור בהקדם האפשרי.</p></article>
+        <article><b>5</b><strong>C → A → B</strong><p>עיסויי חזה, נתיב אוויר והנשמות, כפי שמפורט במצגת.</p></article>
+      </div>
+
+      <div class="cpr-tech-grid">
+        <article><div class="cpr-symbol">C</div><strong>עיסויי חזה</strong><ul><li>מרכז בית החזה בין הפטמות.</li><li>לפחות 100 עיסויים בדקה.</li><li>30 עיסויים בסבב.</li><li>במבוגר: שתי ידיים, עומק של לפחות 5 ס״מ לפי המצגת.</li><li>חזרה מלאה של בית החזה בין עיסוי לעיסוי.</li></ul></article>
+        <article><div class="cpr-symbol">A</div><strong>נתיב אוויר</strong><ul><li>פתיחת הפה וסילוק הפרשות אם ישנן — עד 10 שניות.</li><li>כשאין חשד לטראומה: הטיית המטופל לצד.</li><li>פתיחת נתיב אוויר בשיטת “מצח סנטר”.</li></ul></article>
+        <article><div class="cpr-symbol">B</div><strong>הנשמות</strong><ul><li>2 הנשמות מפה לפה או באמצעות מסכת כיס.</li><li>עד להתרוממות בית החזה ולא יותר משנייה אחת.</li><li>יש להימנע מהנשמת יתר.</li><li>אם המטפל אינו רוצה להנשים — המצגת מציינת “החייאת ידיים בלבד”.</li></ul></article>
+      </div>
+      <div class="ratio-card"><strong>30 : 2</strong><span>יחס עיסויים–הנשמות המוצג במצגת</span><small>הערכה מחודשת כל חמישה סבבים / 2 דקות</small></div>
+    </section>
+
+    <section class="learning-section" id="c31-aed">
+      <div class="section-kicker">04 · AED</div><h3>דפיברילטור אוטומטי</h3>
+      <div class="aed-layout">
+        <div class="aed-device"><div class="aed-screen">AED</div><div class="aed-btn">⚡</div></div>
+        <div class="aed-steps"><article><b>1</b><span>הדלק את המכשיר</span></article><article><b>2</b><span>חבר את המדבקות לבית החזה</span></article><article><b>3</b><span>פעל לפי הנחיות המכשיר</span></article></div>
+      </div>
+      <div class="focus-card"><p>לאחר שוק חשמלי יש לבצע מיד עיסויים. אם אין המלצה לשוק — ממשיכים 2 דקות החייאה. הדפיברילטור מבצע הערכת קצב כל 2 דקות לפי המצגת.</p></div>
+      <div class="warning-card soft"><strong>פרפור חדרים · VF</strong><p>המצגת מתארת מצב שבו חדרי הלב “מפרפרים” ואינם מייצרים דופק מכאני; הטיפול המוצג הוא החייאה מוקדמת ושוק חשמלי בהקדם האפשרי.</p></div>
+    </section>
+
+    <section class="learning-section" id="c31-child">
+      <div class="section-kicker">05 · ילדים ותינוקות</div><h3>מה משתנה?</h3>
+      <div class="focus-card"><p>בניגוד למבוגרים, המצגת מציינת שהסיבה העיקרית לדום לב בילדים ובתינוקות אינה לבבית, אלא קשורה בעיקר להחמרה של כשל נשימתי והלם.</p></div>
+      <div class="child-cpr-grid">
+        <article><strong>ילד</strong><div class="child-cpr-stat"><span>עומק</span><b>לפחות 5 ס״מ</b></div><p>יד אחת או שתיים — לפי גודל הילד.</p></article>
+        <article><strong>תינוק</strong><div class="child-cpr-stat"><span>עומק</span><b>לפחות 4 ס״מ</b></div><p>שני אגודלים או שתי אצבעות.</p></article>
+      </div>
+      <div class="two-column-callout">
+        <article><strong>מטפל יחיד</strong><p>לפי המצגת: מבצע קודם 2 דקות החייאה ורק לאחר מכן קורא לעזרה.</p></article>
+        <article><strong>זוג מטפלים</strong><p>מזעיקים עזרה ומשיגים דפיברילטור בהקדם, בדומה להחייאת מבוגר.</p></article>
+      </div>
+      <div class="focus-card"><p>בילדים קטנים ובתינוקות המצגת מציגה מיקום מדבקות דפיברילטור קדמי–אחורי: מדבקה אחת בקדמת בית החזה ומדבקה שנייה בגב.</p></div>
+    </section>
+
+    <section class="learning-section" id="c31-compare">
+      <div class="section-kicker">06 · השוואה מהירה</div><h3>מבוגר · ילד · תינוק</h3>
+      <div class="responsive-table-wrap"><table class="learning-table"><thead><tr><th>מרכיב</th><th>מבוגר</th><th>ילד</th><th>תינוק</th></tr></thead><tbody>
+        <tr><td>זיהוי</td><td colspan="3">אינו מגיב ואינו נושם או נושם “נשימות אחרונות”</td></tr>
+        <tr><td>רצף</td><td colspan="3">C-A-B</td></tr>
+        <tr><td>קצב עיסויים</td><td colspan="3">לפחות 100 בדקה לפי המצגת</td></tr>
+        <tr><td>עומק</td><td>לפחות 5 ס״מ</td><td>לפחות 1/3 מבית החזה, בערך 5 ס״מ</td><td>לפחות 1/3 מבית החזה, בערך 4 ס״מ</td></tr>
+        <tr><td>אופן עיסוי</td><td>שתי ידיים</td><td>יד אחת או שתיים</td><td>שני אגודלים או שתי אצבעות</td></tr>
+        <tr><td>יחס עיסויים–הנשמות</td><td colspan="3">30:2 לפי טבלת המצגת</td></tr>
+      </tbody></table></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>זיהוי → עזרה → C-A-B → AED</h3></div><p>היחידה מארגנת את כל 41 השקופיות לרצף אחד ברור, תוך שמירת ההבדלים שמציגה המצגת בין מבוגר, ילד ותינוק.</p></section>
+  `,
+
+  "3.2": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 3.2 בלבד</strong><p>הזיהוי, הסיווג והטיפול מוצגים לפי המצגת ללא השלמות ממקורות אחרים.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#f32-mechanism">מהו חנק?</a><a href="#f32-prevention">מניעה</a><a href="#f32-identify">זיהוי</a><a href="#f32-mild">חסימה קלה</a><a href="#f32-severe">חסימה חמורה</a><a href="#f32-unconscious">אובדן הכרה</a></nav>
+
+    <section class="learning-section" id="f32-mechanism"><div class="section-kicker">01 · מה קורה?</div><h3>חסימת נתיב אוויר מגוף זר</h3>
+      <div class="airway-protection"><article><strong>בנשימה</strong><p>אוויר נכנס בחופשיות לקנה הנשימה.</p></article><div class="epiglottis-gate">מכסה הגרון</div><article><strong>בבליעה</strong><p>מכסה הגרון מגן על קנה הנשימה מפני מזון, נוזלים וגופים זרים.</p></article></div>
+      <div class="two-column-callout"><article><strong>רפלקס שיעול</strong><p>אחד משני מנגנוני ההגנה המופיעים במצגת.</p></article><article><strong>רפלקס הקאה</strong><p>מנגנון ההגנה השני.</p></article></div>
+      <div class="risk-chip-grid"><span>אכילה מהירה</span><span>שיחה בזמן סעודה</span><span>קושי בלעיסה</span><span>חוסר שיניים</span><span>אלכוהול / סמים</span></div>
+    </section>
+
+    <section class="learning-section" id="f32-prevention"><div class="section-kicker">02 · לפני הטיפול</div><h3>מניעה והסברה</h3>
+      <div class="prevention-grid"><article><b>01</b><strong>חתיכת מזון בצורה נכונה</strong></article><article><b>02</b><strong>הרחקת חפצים קטנים מילדים</strong></article><article><b>03</b><strong>ערנות בקרבת ילדים</strong></article><article><b>04</b><strong>לא לדבר בזמן אכילה</strong></article></div>
+      <div class="focus-card"><p>המצגת מציינת שקשישים וילדים קטנים הם אוכלוסיות בסיכון ושניתן למנוע את מרבית המקרים באמצעות מניעה והסברה.</p></div>
+    </section>
+
+    <section class="learning-section" id="f32-identify"><div class="section-kicker">03 · הזיהוי הוא המפתח</div><h3>קלה או חמורה?</h3>
+      <div class="obstruction-compare">
+        <article class="mild"><span>חסימה קלה</span><strong>יש קול / שיעול / בכי</strong><p>אם המטופל משמיע קול, משתעל או בוכה — המצגת מסווגת זאת כחסימה קלה.</p></article>
+        <article class="severe"><span>חסימה חמורה</span><strong>אין יכולת להשמיע קול / להשתעל / לבכות</strong><p>זהו הסיווג לחסימה חמורה לפי המצגת.</p></article>
+      </div>
+      <div class="sign-grid"><span>מאמץ נשימתי גובר</span><span>קושי ניכר בנשימה</span><span>שיעול לא יעיל</span><span>כיחלון</span><span>חוסר יכולת לדבר</span><span>אחיזה בצוואר</span><span>ירידה בהכרה</span><span>דום נשימה / לב — מאוחר</span></div>
+    </section>
+
+    <section class="learning-section" id="f32-mild"><div class="section-kicker">04 · חסימה קלה</div><h3>לא להפוך קלה לחמורה</h3>
+      <div class="warning-card"><strong>לפי המצגת אין לבצע התערבות שעלולה לדחוק את הגוף הזר</strong><p>הושב את המטופל, שמור על נתיב האוויר, עודד שיעול ופנה לבית החולים להשגחה ולהמשך בירור.</p></div>
+    </section>
+
+    <section class="learning-section" id="f32-severe"><div class="section-kicker">05 · חסימה חמורה בהכרה</div><h3>הטיפול משתנה לפי גיל ומצב</h3>
+      <div class="choking-treatment-grid">
+        <article><strong>מבוגרים וילדים</strong><ol><li>וודא חסימה חמורה ושאל “האם אתה נחנק?”</li><li>בצע לחיצות ברום הבטן.</li><li>המשך עד יציאת הגוף הזר או אובדן הכרה.</li></ol></article>
+        <article><strong>תינוקות</strong><ol><li>וודא חסימה חמורה ושלול יכולת לבכות או להשמיע קול.</li><li>5 טפיחות בין השכמות.</li><li>5 לחיצות חזה.</li><li>המשך לסירוגין עד יציאת הגוף הזר או אובדן הכרה.</li></ol></article>
+      </div>
+      <div class="special-groups"><strong>לחיצות חזה במקום לחיצות ברום הבטן</strong><span>תינוקות מתחת לגיל שנה</span><span>מרותקים למיטה / כיסא גלגלים</span><span>נשים בהריון</span><span>אנשים שמנים מאוד</span></div>
+    </section>
+
+    <section class="learning-section" id="f32-unconscious"><div class="section-kicker">06 · אם המטופל איבד הכרה</div><h3>מעבר להחייאה</h3>
+      <div class="cpr-flow compact">
+        <article><b>1</b><strong>הזעק עזרה</strong><p>במצגת: הזעק נט״ן.</p></article>
+        <article><b>2</b><strong>השכב על מצע קשיח</strong><p>אם אין נשימה או שהנשימה אינה אפקטיבית — התחל החייאה הכוללת עיסויים והנשמות.</p></article>
+        <article><b>3</b><strong>לפני הנשמה</strong><p>הבט לחלל הפה; אם ניתן לראות גוף זר — הוצא אותו.</p></article>
+        <article><b>4</b><strong>המשך</strong><p>מחזורים של 2 דקות עד הגעת צוות מתקדם או יציאת הגוף הזר.</p></article>
+      </div>
+      <div class="two-column-callout"><article><strong>איך יודעים שהגוף הזר יצא?</strong><p>לפי המצגת: מרגישים כניסת אוויר ורואים התרוממות בית החזה, או שהגוף הזר יצא מהלוע.</p></article><article><strong>לאחר יציאה</strong><p>אם הגוף הזר יצא בעקבות לחיצות ברום הבטן, יש לבצע בדיקה והערכת סימנים חיוניים ולפנות למתקן רפואי.</p></article></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>זהה את דרגת החסימה — ואז פעל</h3></div><p>הדגש המרכזי במצגת הוא ההבחנה בין חסימה קלה לחמורה וההתאמה בין מצב ההכרה, גיל המטופל וצורת ההתערבות.</p></section>
+  `,
+
+  "3.3": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 3.3 בלבד</strong><p>העמוד מארגן את ציוד ההחייאה לפי קבוצות שימוש. פרטים שהופיעו בתמונות בלבד ללא הסבר טקסטואלי לא הורחבו מעבר למקור.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#d33-airway">מנתב אוויר</a><a href="#d33-suction">סקשן</a><a href="#d33-bvm">מפוח</a><a href="#d33-oxygen">חמצן</a><a href="#d33-mask">מערכות העשרה</a><a href="#d33-team">עבודת צוות</a></nav>
+
+    <section class="learning-section" id="d33-airway"><div class="section-kicker">01 · Airway</div><h3>מנתב אוויר</h3>
+      <div class="device-card"><div class="device-visual airway-device">Airway</div><div><p>החדרת מנתב האוויר מתבצעת בשלב ה־Airway.</p><div class="size-row"><span>00</span><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span></div></div></div>
+      <div class="definition-grid three"><article><strong>תפקיד 1</strong><p>מסייע בניתוב האוויר מהפה לכיוון קנה הנשימה.</p></article><article><strong>תפקיד 2</strong><p>מונע סגירת נתיב האוויר עקב כיווץ לסתות, לפי המצגת.</p></article><article><strong>תפקיד 3</strong><p>בעת הנשמה במפוח — חובה להשתמש במנתב אוויר לפי המצגת.</p></article></div>
+      <div class="focus-card"><p>המצגת מציינת שמנתב האוויר אינו מונע את צניחת בסיס הלשון, ולכן יש לקבע את הראש לאחור בשיטת “מצח סנטר”. הוא מוחדר רק בחולה מחוסר הכרה ברמות P ו־U.</p></div>
+      <div class="two-column-callout"><article><strong>גדול מדי</strong><p>המצגת מפרטת סיכונים של חסימת נתיב אוויר, פציעה ודימום, גירוי והקאה ועוד.</p></article><article><strong>קטן מדי</strong><p>עלול להוות גוף זר, לחסום נתיב אוויר ואינו משיג את מטרתו.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="d33-suction"><div class="section-kicker">02 · סקשן</div><h3>שאיבת הפרשות</h3>
+      <div class="device-anatomy"><div class="device-box suction-box">SUCTION</div><div class="device-labels"><span>בוכנה</span><span>דוושה</span><span>מיכל הפרשות</span><span>צינור סקשן</span><span>קטטר</span><span>כוסית ביטחון</span></div></div>
+      <ul class="clean-list"><li>משמש לשאיבת הפרשות נוזליות בלבד — דם, קיא וריר.</li><li>בחולה מונשם: השאיבה עד 10 שניות, גם אם נשארו הפרשות.</li><li>לפני השאיבה יש להוציא את מנתב האוויר.</li><li>השאיבה מתבצעת תוך כדי הוצאת הקטטר והנעתו.</li><li>לאחר השימוש יש לנקות את המכשיר.</li></ul>
+      <div class="focus-card"><p>המצגת מציינת לחמצן את החולה לפני ואחרי שאיבה. היא מציגה גם סקשן ילדים המצוי בערכת הלידה.</p></div>
+    </section>
+
+    <section class="learning-section" id="d33-bvm"><div class="section-kicker">03 · מפוח הנשמה</div><h3>מבוגר ותינוק</h3>
+      <div class="bvm-diagram"><div class="bvm-mask">מסכה</div><div class="bvm-valve">T</div><div class="bvm-bag">מפוח</div><div class="bvm-reservoir">שקית מאגר</div></div>
+      <div class="spec-grid four"><div><span>נפח מפוח מבוגר</span><strong>1000 cc</strong></div><div><span>מסכות בערכה</span><strong>מס׳ 5 + מס׳ 2</strong></div><div><span>מסנן</span><strong>ויראלי — חובה</strong></div><div><span>חמצן בזמן הנשמה</span><strong>לפחות 10 LPM</strong></div></div>
+      <div class="two-column-callout"><article><strong>יתרונות</strong><p>בטיחות למטפל, הנשמה לפה ולאף, העשרה בחמצן, אפשרות לסיוע נשימתי ותקשורת עם הסביבה תוך כדי הנשמה.</p></article><article><strong>חסרונות</strong><p>מחייב מנתב אוויר, דורש מיומנות ומחייב לפחות שני מטפלים.</p></article></div>
+      <div class="warning-card soft"><strong>אופן ההנשמה</strong><p>לפי המצגת: נפח עד תחילת התרוממות החזה, סחיטה איטית ואחידה, והימנעות מהנשמה מהירה ובלחץ גבוה.</p></div>
+      <div class="focus-card"><p>במפוח תינוקות המצגת מציינת נפח 250–350 cc, מסכה מס׳ 0, ושימוש הדרגתי — כל אצבע מספקת 50 cc, מתחילים בשתי אצבעות ומוסיפים בהדרגה.</p></div>
+    </section>
+
+    <section class="learning-section" id="d33-oxygen"><div class="section-kicker">04 · מערכת חמצן</div><h3>מכלים, חישוב ובטיחות</h3>
+      <div class="oxygen-cylinder-grid"><article><div class="cylinder tall"></div><strong>H</strong><span>20 ליטר</span></article><article><div class="cylinder short"></div><strong>D</strong><span>2.4 ליטר</span></article></div>
+      <div class="formula-card"><span>משך שימוש בחמצן</span><strong>(לחץ באטמוספרות × נפח המכל) ÷ זרימה בליטר/דקה</strong><small>כך מוצגת הנוסחה במצגת.</small></div>
+      <div class="safety-grid"><span>הרחק מאש וחום</span><span>הרחק משמן</span><span>קבע מכלים נייחים</span><span>השכב מכל נייד</span><span>אין לרכון מעל המכל</span><span>השתמש במכל תקני</span></div>
+      <div class="focus-card"><p>המצגת מציינת לחבר חמצן בהקדם האפשרי, אך לא על חשבון רצף ההחייאה, ולבדוק את כמות החמצן במכלים בתחילת כל משמרת.</p></div>
+    </section>
+
+    <section class="learning-section" id="d33-mask"><div class="section-kicker">05 · מערכות העשרה</div><h3>אמצעי מתן חמצן שמופיעים במצגת</h3>
+      <div class="responsive-table-wrap"><table class="learning-table"><thead><tr><th>מערכת</th><th>זרימה / נתון במצגת</th><th>העשרה</th></tr></thead><tbody>
+        <tr><td>קנולה לאף לתינוק</td><td>2 LPM</td><td>30%</td></tr>
+        <tr><td>מסיכה לילד עם שסתום אחד</td><td>10 LPM</td><td>60%–85%</td></tr>
+        <tr><td>מסיכה למבוגר עם שקית מאגר ושסתומים</td><td>10 LPM</td><td>85%–90%</td></tr>
+        <tr><td>מסיכת כיס</td><td>10 LPM</td><td>50%</td></tr>
+        <tr><td>מפוח למבוגר</td><td>10–15 LPM</td><td>80%–100%</td></tr>
+        <tr><td>מפוח לתינוק</td><td>10–15 LPM</td><td>100%</td></tr>
+      </tbody></table></div>
+    </section>
+
+    <section class="learning-section" id="d33-team"><div class="section-kicker">06 · עבודה בצוות</div><h3>ציוד דורש מיומנות ותיאום</h3>
+      <div class="hero-fact-card"><div class="hero-fact-icon">2+</div><div><strong>לפחות שני אנשי צוות</strong><p>זהו תנאי שמופיע כבר בתחילת המצגת להחייאה באמצעות מכשירים. בהחייאת זוגות, המצגת מציינת שמטפל ב׳ יוציא מכשירים.</p></div></div>
+      <div class="warning-card soft"><strong>הערה על שקופיות ציוד</strong><p>בחלק מהשקופיות מופיעים מכשירים בתמונה ללא שם או הסבר טקסטואלי מלא. בעמוד לא הוספתי להם זיהוי שאינו כתוב במקור.</p></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>ציוד טוב דורש הכרה, בדיקה ומיומנות</h3></div><p>העמוד מחבר את מנתב האוויר, הסקשן, המפוח ומערכת החמצן לרצף אחד של עבודה עם ציוד החייאה.</p></section>
+  `,
+
+  "3.4": `
+    <div class="source-note"><div class="source-note-mark">מקור</div><div><strong>היחידה בנויה מחדש מתוך מצגת 3.4 בלבד</strong><p>זו מצגת קצרה של ארבעה עמודים. כל הנתונים שבה שולבו כאן בלי להרחיב מעבר למקור.</p></div></div>
+    <nav class="lesson-jump-nav"><a href="#o34-safety">בטיחות</a><a href="#o34-cylinders">מכלים ולחץ</a><a href="#o34-time">משך שימוש</a><a href="#o34-when">מתי?</a><a href="#o34-mask">מסכה</a></nav>
+
+    <section class="learning-section" id="o34-safety"><div class="section-kicker">01 · בטיחות</div><h3>לפני שפותחים את המכל</h3>
+      <div class="safety-grid large"><span>השתמש רק במכל תקין</span><span>בצע בדיקה תקופתית</span><span>הרחק מאש ומחום</span><span>הרחק משמן</span><span>קבע מכלים נייחים</span><span>השכב מכל נייד</span><span>אין לרכון מעל מכל</span><span>בדוק תפוגה</span></div>
+      <div class="focus-card"><p>המצגת מציינת תוקף של 5 שנים המוטבע על המכל ומזהירה לא לבלבל בין ברז הזרימה לפין הנעילה.</p></div>
+    </section>
+
+    <section class="learning-section" id="o34-cylinders"><div class="section-kicker">02 · שני סוגי מכלים</div><h3>H ו־D</h3>
+      <div class="oxygen-cylinder-grid"><article><div class="cylinder tall"></div><strong>מכל H</strong><span>20 ליטר</span></article><article><div class="cylinder short"></div><strong>מכל D</strong><span>2.4 ליטר</span></article></div>
+      <div class="metric-grid"><article><span>יחידות לחץ</span><strong>ATM / PSI</strong><p>במצגת: 1 ATM = 14.7 PSI.</p></article><article><span>מכל מלא</span><strong>כ־135 ATM</strong><p>לפי הנתון במצגת.</p></article></div>
+    </section>
+
+    <section class="learning-section" id="o34-time"><div class="section-kicker">03 · כמה זמן נשאר?</div><h3>חישוב משך שימוש</h3>
+      <div class="formula-card big"><span>משך זמן שימוש בדקות</span><strong>(לחץ במכל באטמוספרות × נפח המכל) ÷ קצב הזרימה בליטר/דקה</strong></div>
+      <div class="example-calc"><div><span>דוגמת המצגת</span><strong>15 ATM × 20 ליטר ÷ 10 ליטר/דקה</strong></div><b>=</b><div><strong>300 דקות</strong><span>5 שעות</span></div></div>
+    </section>
+
+    <section class="learning-section" id="o34-when"><div class="section-kicker">04 · מתי?</div><h3>המצבים שמופיעים במצגת</h3>
+      <div class="indication-grid"><span>ירידה ברמת ההכרה</span><span>פצוע עם חשד לדימום</span><span>חשד לאירוע לבבי</span><span>מצוקה נשימתית</span><span>חשד לאירוע מוחי או פגיעת ראש</span></div>
+      <div class="quote-card"><strong>“אם יש ספק – ספק!”</strong><span>כך מופיע במצגת המקורית.</span></div>
+    </section>
+
+    <section class="learning-section" id="o34-mask"><div class="section-kicker">05 · מסכה עם שקית מאגר</div><h3>מתן חמצן לחולה נושם</h3>
+      <div class="mask-layout"><div class="oxygen-mask"><div class="mask-face">מסכה</div><div class="reservoir-bag">שקית מאגר</div></div><div><p>לפי המצגת, בשימוש במסכה עם שקית מאגר יש לפתוח את הווסת על <strong>10–15 LPM</strong>.</p><p>ריכוז החמצן המוצג במצגת: <strong>90%</strong>.</p><p>יש לנפח את שקית המאגר לפני הנחת המסכה על פני הנפגע.</p><p>אם הנפגע בהכרה — להסביר לו את מהות הפעולה.</p></div></div>
+      <div class="two-column-callout"><article><strong>קנולה לאף</strong><p>המצגת מציינת שהיא פחות יעילה במצבי חירום רפואיים.</p></article><article><strong>הבחנה חשובה</strong><p>יש להבדיל בין הנשמה מסייעת עם אמבו לבין מתן חמצן באמצעות מסכה עם שקית העשרה.</p></article></div>
+    </section>
+    <section class="lesson-summary-panel"><div><span>סיכום היחידה</span><h3>בטיחות → מלאי → חישוב → מתן</h3></div><p>ארבע השקופיות המקוריות הפכו לעמוד קצר וברור שמרכז את כללי הבטיחות, המכלים, החישוב ואופן המתן שמופיעים במקור.</p></section>
+  `
+
 
 };
 
