@@ -1,28 +1,21 @@
-# MDA First Aid Learning Site
+# מרכז לימוד עזרה ראשונה
 
-אתר סטטי ורספונסיבי ללימוד חומרי עזרה ראשונה.
+אתר סטטי בעברית, מוכן לפריסה ב-GitHub Pages.
 
 ## מבנה
-- `index.html` — האתר הראשי
-- `assets/css/style.css` — עיצוב
-- `assets/js/app.js` — תוכן, ניווט והתקדמות
-- `pdf/` — קובצי המקור
+- `index.html` – דף הכניסה לאתר
+- `assets/css/style.css` – עיצוב
+- `assets/js/app.js` – כל מבנה הקורס, הניווט והלוגיקה
+- `pdf/` – 44 קובצי המקור המחולקים ל-13 נושאים
 
-## GitHub Pages
-1. העלה את כל התיקייה לריפו חדש.
-2. היכנס ל־Settings → Pages.
-3. בחר Deploy from a branch.
-4. בחר `main` ו־`/root`.
-5. שמור.
+## העלאה ל-GitHub Pages
+1. צרו Repository חדש ב-GitHub.
+2. העלו את **תוכן התיקייה** `mda-first-aid-site` לשורש ה-Repository.
+3. היכנסו ל-Settings → Pages.
+4. בחרו Deploy from a branch.
+5. בחרו `main` ו-`/(root)` ושמרו.
 
-אין צורך בשרת או בבסיס נתונים.
+אין צורך ב-Node.js, שרת או build. האתר עובד כאתר סטטי בלבד.
 
-## הוספת נושאים
-המידע נמצא במערך `course` בקובץ `assets/js/app.js`.
-לכל נושא אפשר להוסיף `lessons` עם:
-- `id`
-- `title`
-- `pdf`
-- `lead`
-- `points`
-- `remember`
+## התקדמות תלמיד
+הסימון "למדתי" והיחידה האחרונה נשמרים מקומית בדפדפן באמצעות `localStorage`.
