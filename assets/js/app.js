@@ -681,6 +681,194 @@ const course = [
 const completed = new Set(JSON.parse(localStorage.getItem("mdaCompleted") || "[]"));
 let currentLesson = localStorage.getItem("mdaLastLesson") || "1.1";
 
+
+
+const richLessons = {
+  "1.1": `
+    <div class="source-note">
+      <div class="source-note-mark">מקור</div>
+      <div>
+        <strong>היחידה בנויה מחדש מתוך מצגת 1.1 בלבד</strong>
+        <p>הניסוח והעיצוב חדשים, אבל הנתונים, החלוקה והתוכן נשענים על חומר המקור. נתונים מספריים מוצגים כפי שהם מופיעים במצגת.</p>
+      </div>
+    </div>
+
+    <nav class="lesson-jump-nav" aria-label="ניווט בתוך היחידה">
+      <a href="#mda-identity">מהו מד״א</a>
+      <a href="#mda-timeline">ציר הזמן</a>
+      <a href="#mda-roles">תחומי פעילות</a>
+      <a href="#mda-structure">מבנה הארגון</a>
+      <a href="#mda-regions">פריסה ומוקדים</a>
+      <a href="#mda-fleet">מערך מבצעי</a>
+      <a href="#mda-humanitarian">סיוע הומניטרי</a>
+    </nav>
+
+    <section class="learning-section intro-section" id="mda-identity">
+      <div class="section-kicker">01 · זהות הארגון</div>
+      <div class="intro-grid">
+        <div>
+          <h3>מגן דוד אדום בישראל</h3>
+          <p class="big-copy">לפי חומר המקור, מד״א הוא <strong>ארגון ההצלה הלאומי</strong>, המוכר על פי החוק בישראל מראשית הקמת המדינה.</p>
+          <p>מכאן ממשיכה המצגת להציג כיצד הארגון התפתח, כיצד הוא בנוי, אילו שירותים הוא מפעיל ואילו אמצעים עומדים לרשותו.</p>
+        </div>
+        <div class="identity-card" aria-label="כרטיס זהות למדא">
+          <span>ארגון ההצלה הלאומי</span>
+          <strong>מד״א</strong>
+          <small>מגן דוד אדום בישראל</small>
+          <div class="ecg-line" aria-hidden="true"><i></i></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="learning-section" id="mda-timeline">
+      <div class="section-kicker">02 · התפתחות הארגון</div>
+      <h3>ארבע תחנות בציר הזמן</h3>
+      <p class="section-intro">במקום ארבע שקופיות נפרדות, כל אבני הדרך שמופיעות במצגת מרוכזות ברצף אחד.</p>
+      <div class="timeline-modern">
+        <article>
+          <div class="timeline-year">1930</div>
+          <div class="timeline-body"><strong>הקמה</strong><p>נוסד בידי מתנדבים על פי עקרונות הצלב האדום.</p></div>
+        </article>
+        <article>
+          <div class="timeline-year">1948</div>
+          <div class="timeline-body"><strong>עם קום המדינה</strong><p>כ־5,000 מתנדבים, 24 תחנות ו־28 אמבולנסים.</p></div>
+        </article>
+        <article>
+          <div class="timeline-year">1980</div>
+          <div class="timeline-body"><strong>יחידה ארצית אחידה</strong><p>לפי המצגת: 700 אמבולנסים וניידות טיפול נמרץ, 101 תחנות, 1,400 עובדים וכ־12,000 מתנדבים וכוננים.</p></div>
+        </article>
+        <article>
+          <div class="timeline-year">2006</div>
+          <div class="timeline-body"><strong>הצטרפות לתנועה הבינלאומית</strong><p>מד״א מצטרף לארגון הצלב האדום והסהר האדום הבינלאומי.</p></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="mda-roles">
+      <div class="section-kicker">03 · מה מד״א עושה?</div>
+      <h3>תחומי הפעילות המופיעים במצגת</h3>
+      <div class="role-grid">
+        <article><span>01</span><strong>ארגון לאומי</strong><p>יישום פעילויות של ארגון לאומי ופעילויות נוספות שנקבעו בתקנון הארגון.</p></article>
+        <article><span>02</span><strong>עזרה ראשונה</strong><p>הגשת שירותי עזרה ראשונה לקהל הרחב.</p></article>
+        <article><span>03</span><strong>מערך הדם</strong><p>שמירת מאגר דם, פלסמה ומוצרי דם; ארגון התרמות, הפרדת מרכיבים ושמירת רשימת תורמים, לרבות סוגי דם נדירים.</p></article>
+        <article><span>04</span><strong>אירועים המוניים</strong><p>הקמת מערך רפואי נרחב באירועים המוניים.</p></article>
+        <article><span>05</span><strong>הדרכת צוותים</strong><p>הדרכת צוותים רפואיים של הארגון — עובדים ומתנדבים.</p></article>
+        <article><span>06</span><strong>הדרכת הציבור</strong><p>הדרכת הציבור הרחב בהחייאה ובעזרה ראשונה בסיסית.</p></article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="mda-structure">
+      <div class="section-kicker">04 · מבנה הארגון</div>
+      <h3>מהנהלה ועד אגפים מקצועיים</h3>
+      <p class="section-intro">התרשים במצגת צפוף מאוד. כאן מוצגת אותה היררכיה ברמת הכותרות המרכזיות שניתן לקרוא בבירור במקור.</p>
+      <div class="org-chart-web">
+        <div class="org-level top"><span>נשיא</span></div>
+        <div class="org-connector"></div>
+        <div class="org-level"><span>מועצת מד״א</span></div>
+        <div class="org-connector"></div>
+        <div class="org-level"><span>הוועד הפועל</span></div>
+        <div class="org-connector"></div>
+        <div class="org-level emphasis"><span>מנכ״ל</span></div>
+        <div class="org-side-row"><span>מבקר הפנים</span><span>מתאם פעולות ההתנדבות</span></div>
+        <div class="org-divisions">
+          <span>מבצעים</span><span>רפואה</span><span>לוגיסטיקה</span><span>הדרכה</span><span>ארגון ומנהל</span><span>כספים</span><span>שירותי דם</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="learning-section" id="mda-regions">
+      <div class="section-kicker">05 · פריסה ארצית</div>
+      <h3>11 מרחבים ומוקדים מרחביים</h3>
+      <p class="section-intro">המצגת מחלקת את המרחבים לשלושה אזורים ומציגה את המוקד המרחבי של כל אחד.</p>
+      <div class="regions-grid">
+        <article>
+          <header><strong>צפון</strong><span>4 מרחבים</span></header>
+          <dl><div><dt>ירדן</dt><dd>טבריה</dd></div><div><dt>גלבוע</dt><dd>עפולה</dd></div><div><dt>אשר</dt><dd>עכו</dd></div><div><dt>כרמל</dt><dd>חיפה</dd></div></dl>
+        </article>
+        <article>
+          <header><strong>מרכז</strong><span>5 מרחבים</span></header>
+          <dl><div><dt>איילון</dt><dd>ראשון לציון</dd></div><div><dt>דן</dt><dd>תל אביב</dd></div><div><dt>שרון</dt><dd>נתניה</dd></div><div><dt>ירקון</dt><dd>פתח תקווה</dd></div><div><dt>ירושלים</dt><dd>ירושלים</dd></div></dl>
+        </article>
+        <article>
+          <header><strong>דרום</strong><span>2 מרחבים</span></header>
+          <dl><div><dt>לכיש</dt><dd>אשדוד</dd></div><div><dt>נגב</dt><dd>באר שבע</dd></div></dl>
+        </article>
+      </div>
+      <div class="fact-strip">
+        <div><strong>110+</strong><span>תחנות ותחנות משנה לפי המצגת</span></div>
+        <div><strong>11</strong><span>מוקדים מרחביים</span></div>
+        <div><strong>נוסף</strong><span>אמבולנסים בקיבוצים ובמוסדות ציבוריים, המופעלים בידי מתנדבים</span></div>
+      </div>
+
+      <div class="subsection-block">
+        <h4>המוקד הלאומי של מד״א</h4>
+        <div class="dispatch-grid">
+          <div><strong>מוקד ייעודי לבתי ספר</strong><span>עזרה ראשונה במקום רפואת חירום</span></div>
+          <div><strong>מענה תוך 7 שניות</strong><span>כך מצוין במצגת המקור</span></div>
+          <div><strong>מרכז מד״א</strong><span>מרכיב נוסף שמופיע בשקופית</span></div>
+          <div><strong>מוקד לאומי לשע״ח</strong><span>שעת חירום</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="learning-section" id="mda-fleet">
+      <div class="section-kicker">06 · המערך המבצעי</div>
+      <h3>כלים וצוותים שונים — יכולות שונות</h3>
+      <div class="fleet-tabs" role="tablist" aria-label="סוגי רכבי הצלה">
+        <button class="fleet-tab active" data-fleet-tab="regular">אמבולנס רגיל</button>
+        <button class="fleet-tab" data-fleet-tab="micu">נט״ן</button>
+        <button class="fleet-tab" data-fleet-tab="als">אט״ן</button>
+      </div>
+      <div class="fleet-panel active" data-fleet-panel="regular">
+        <div class="fleet-title"><span class="vehicle-shape regular"></span><div><strong>אמבולנס רגיל</strong><small>כפי שמופיע בשקופית 13</small></div></div>
+        <div class="spec-grid"><div><span>צוות</span><strong>חובש רפואת חירום + מגיש עזרה ראשונה</strong></div><div><span>יכולת טיפול</span><strong>סעד חיים חצי מתקדם, כולל דפיברילטור חצי אוטומטי</strong></div><div><span>יכולת פינוי</span><strong>2 שוכבים, או שוכב אחד + 3 בישיבה</strong></div></div>
+      </div>
+      <div class="fleet-panel" data-fleet-panel="micu">
+        <div class="fleet-title"><span class="vehicle-shape advanced"></span><div><strong>נט״ן — ניידת טיפול נמרץ</strong><small>כפי שמופיע בשקופית 14</small></div></div>
+        <div class="spec-grid"><div><span>צוות</span><strong>פאראמדיק + חובש בכיר + רופא</strong></div><div><span>יכולת טיפול</span><strong>סעד חיים מתקדם, בהתאם לפרוטוקולים של AHA</strong></div><div><span>יכולת פינוי</span><strong>1 שוכב + 1 יושב</strong></div></div>
+      </div>
+      <div class="fleet-panel" data-fleet-panel="als">
+        <div class="fleet-title"><span class="vehicle-shape advanced"></span><div><strong>אט״ן — אמבולנס טיפול נמרץ</strong><small>כפי שמופיע בשקופית 15</small></div></div>
+        <div class="spec-grid"><div><span>צוות</span><strong>פאראמדיק + חובש בכיר</strong></div><div><span>יכולת טיפול</span><strong>סעד חיים מתקדם, בהתאם לפרוטוקולים של AHA</strong></div><div><span>יכולת פינוי</span><strong>1 שוכב + 1 יושב</strong></div></div>
+      </div>
+
+      <div class="capabilities-grid">
+        <article><div class="cap-icon">דם</div><strong>ניידת דם</strong><p>מופיעה במצגת כחלק ממערך הרכבים.</p></article>
+        <article><div class="cap-icon">תא״ר</div><strong>תחנת אירוע רב־נפגעים</strong><p>ערכות עזרה ראשונה מתקדמות, ציוד רפואי, ציוד פינוי ועזרים לפיקוד ולשליטה.</p></article>
+        <article><div class="cap-icon">מסוק</div><strong>מסוקים</strong><p>המצגת מציגה מסוקי מד״א כחלק מאמצעי המענה.</p></article>
+        <article><div class="cap-icon">אופנוע</div><strong>אופנועים</strong><p>מופיעים במצגת כחלק מהמערך המבצעי.</p></article>
+        <article class="wide"><div class="cap-icon">כונן</div><strong>יחידת כוננים</strong><p>מתנדבים המשתמשים ברכביהם הפרטיים, מצוידים בערכות עזרה ראשונה, כדי להגיע ראשונים אל מבקש העזרה.</p></article>
+      </div>
+    </section>
+
+    <section class="learning-section" id="mda-humanitarian">
+      <div class="section-kicker">07 · פעילות הומניטרית</div>
+      <h3>בישראל ומחוץ לה</h3>
+      <p class="section-intro">בחלק האחרון המצגת עוברת מפעילות החירום בישראל לפעילות הומניטרית מקומית ובינלאומית.</p>
+      <div class="humanitarian-card">
+        <div>
+          <span class="humanitarian-label">סיוע בינלאומי</span>
+          <strong>מדינות המופיעות במצגת</strong>
+          <p>טורקיה · תאילנד · אוגנדה · באלי · סרי לנקה · איראן · קונגו · יוון · הודו · ועוד</p>
+        </div>
+        <div class="humanitarian-example"><span>דוגמה שמופיעה במקור</span><strong>סרי לנקה · 2004</strong></div>
+      </div>
+      <div class="local-aid-note">
+        <strong>פעילות הומניטרית מקומית</strong>
+        <p>המצגת מסיימת בגלריית תמונות של פעילות הומניטרית מקומית. מאחר שאין בשקופית פירוט טקסטואלי נוסף, איננו מוסיפים כאן תיאור שאינו מופיע במקור.</p>
+      </div>
+    </section>
+
+    <section class="lesson-summary-panel">
+      <div>
+        <span>סיכום היחידה</span>
+        <h3>מה אמורים לקחת מהמבוא?</h3>
+      </div>
+      <p>המצגת מציגה את מד״א דרך שבעה רבדים: זהות הארגון, התפתחות היסטורית, תחומי פעילות, מבנה, פריסה ארצית, אמצעי מענה ופעילות הומניטרית. כל החלקים לעיל בנויים מחדש מתוך אותם נתונים, ללא הוספת מידע חיצוני.</p>
+    </section>
+  `
+};
+
 const nav = document.getElementById("courseNav");
 const grid = document.getElementById("topicGrid");
 const lessonView = document.getElementById("lessonView");
@@ -759,6 +947,22 @@ function openLesson(id){
   document.getElementById("lessonRemember").textContent = lesson.remember;
   document.getElementById("pdfLink").href = lesson.pdf;
 
+  const rich = document.getElementById("richLessonContent");
+  const genericBlock = document.getElementById("genericLessonBlock");
+  const genericRemember = document.getElementById("genericRememberBox");
+  if(richLessons[id]){
+    rich.innerHTML = richLessons[id];
+    rich.classList.remove("hidden");
+    genericBlock.classList.add("hidden");
+    genericRemember.classList.add("hidden");
+    initRichLessonInteractions();
+  } else {
+    rich.innerHTML = "";
+    rich.classList.add("hidden");
+    genericBlock.classList.remove("hidden");
+    genericRemember.classList.remove("hidden");
+  }
+
   const status = document.getElementById("lessonStatus");
   status.textContent = completed.has(id) ? "✓ נלמד" : "טרם הושלם";
 
@@ -773,6 +977,25 @@ function openLesson(id){
 
   window.scrollTo({top:0,behavior:"smooth"});
   closeSidebar();
+}
+
+
+function initRichLessonInteractions(){
+  document.querySelectorAll(".fleet-tab").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const key = btn.dataset.fleetTab;
+      document.querySelectorAll(".fleet-tab").forEach(b => b.classList.toggle("active", b === btn));
+      document.querySelectorAll(".fleet-panel").forEach(panel => panel.classList.toggle("active", panel.dataset.fleetPanel === key));
+    });
+  });
+
+  document.querySelectorAll(".lesson-jump-nav a").forEach(link => {
+    link.addEventListener("click", e => {
+      e.preventDefault();
+      const target = document.querySelector(link.getAttribute("href"));
+      if(target) target.scrollIntoView({behavior:"smooth", block:"start"});
+    });
+  });
 }
 
 function showHome(){
