@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#b91c1c">
+  <title>מרכז לימוד עזרה ראשונה</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">✚</div>
+      <div>
+        <strong>מרכז לימוד עזרה ראשונה</strong>
+        <span>אתר לימודי אינטראקטיבי</span>
+      </div>
+    </div>
+    <button class="menu-toggle" id="menuToggle" aria-label="פתיחת תפריט">☰</button>
+  </header>
+
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-head">
+        <span class="eyebrow">תוכן הקורס</span>
+        <strong>13 נושאים</strong>
+      </div>
+      <nav id="courseNav"></nav>
+    </aside>
+
+    <main class="main-content">
+      <section class="hero">
+        <div class="hero-copy">
+          <span class="eyebrow">לומדים. מתרגלים. זוכרים.</span>
+          <h1>עזרה ראשונה<br><span>בצורה ברורה ונגישה</span></h1>
+          <p>
+            אתר לימוד חדש המבוסס על חומרי הקורס. כל נושא מחולק ליחידות קצרות,
+            סיכומים, נקודות חשובות וקישור למקור המלא.
+          </p>
+          <div class="hero-actions">
+            <button class="btn primary" data-open-topic="1.1">התחל מההתחלה</button>
+            <button class="btn ghost" id="continueBtn">המשך מהמקום האחרון</button>
+          </div>
+        </div>
+
+        <div class="hero-panel">
+          <div class="pulse-card">
+            <div class="pulse-icon">♥</div>
+            <div>
+              <strong>עקרון מנחה</strong>
+              <p>לומדים קודם להבין את הרעיון, ורק אחר כך עוברים למקור המלא.</p>
+            </div>
+          </div>
+
+          <div class="stats">
+            <div><strong>13</strong><span>נושאים</span></div>
+            <div><strong>8</strong><span>יחידות זמינות</span></div>
+            <div><strong>2</strong><span>פרקים מלאים</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-head">
+        <div>
+          <span class="eyebrow">מסלול הלמידה</span>
+          <h2>בחרו נושא</h2>
+        </div>
+        <div class="progress-wrap">
+          <span id="progressLabel">0% הושלם</span>
+          <div class="progress-bar"><span id="progressBar"></span></div>
+        </div>
+      </section>
+
+      <section class="topic-grid" id="topicGrid"></section>
+
+      <section class="lesson-view hidden" id="lessonView">
+        <button class="back-btn" id="backToHome">← חזרה לכל הנושאים</button>
+        <div class="lesson-layout">
+          <article class="lesson-card">
+            <div class="lesson-meta">
+              <span id="lessonNumber"></span>
+              <span id="lessonStatus"></span>
+            </div>
+            <h2 id="lessonTitle"></h2>
+            <p class="lesson-lead" id="lessonLead"></p>
+
+            <div class="lesson-block">
+              <h3>מה לומדים כאן?</h3>
+              <ul id="lessonPoints"></ul>
+            </div>
+
+            <div class="remember-box">
+              <span>חשוב לזכור</span>
+              <p id="lessonRemember"></p>
+            </div>
+
+            <div class="lesson-actions">
+              <a class="btn primary" id="pdfLink" target="_blank" rel="noopener">פתח את המקור המלא</a>
+              <button class="btn ghost" id="markComplete">סמן כ־למדתי</button>
+            </div>
+          </article>
+
+          <aside class="lesson-aside">
+            <div class="aside-card">
+              <span class="eyebrow">ניווט בפרק</span>
+              <div id="lessonNav"></div>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
